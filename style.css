@@ -1,0 +1,188 @@
+html{
+	 font-family : verdana, cursive , sans-serif;
+     font: inherit;
+	 margin:0;
+	 padding:0;
+	 border:0;
+	 vertical-align:baseline
+}
+
+h1 {
+     text-align: center;
+	 font-size:400%;
+	 color: white;
+	 font-family: 'Source Sans Pro', sans-serif;
+}
+
+#title {
+     text-align: center;
+	 font-size:400%;
+	 font-family: 'Indie Flower', cursive;
+	 color: white;
+}
+
+h2{
+	text-align: left;
+}
+#h2{
+	text-align:left;
+}
+
+h3 {
+	text-align: left;
+}
+
+.h3{
+    color: red;
+    font-size:50px;
+    text-align:center;
+	font-weight:900;
+	font-family: 'Source Sans Pro', sans-serif;
+	
+}
+h4{
+	color:yellow;
+	font-size:30px;
+	text-align: left;
+	font-weight:600;
+}
+
+.bigdata{ 
+	  border : 0.5em solid blue;
+      margin-left:auto;
+	  margin-right:auto;
+	  display: block;
+	  height: 50%;
+	 width: 100%; 
+}
+.bigdata2{ 
+			border : 0.05em solid blue;
+			margin-left:auto;
+			margin-right:auto;
+			display: block;
+}
+
+#menubar{ 
+	      list-style-type :none;
+          margin:0;
+          padding:0;
+	      overflow:hidden;
+	      background-color:navy;
+}
+
+.ho{
+	float: left;
+}	
+.ho a{
+	display:inline;
+	display:block;
+	text-align:center;
+    padding:14px 16px;
+	color:white;
+    text-decoration: none;
+	font-size:30px;
+	font-family: 'Indie Flower', cursive;
+	font-weight: 900;
+	}
+
+.ho:hover{
+        	background:#F3F5BB;
+}	
+	
+
+ 
+ ul{list-style-type: square;
+ }
+
+#indeximg { 
+            margin-left:auto;
+			margin-right:auto;
+			display: block;
+}
+#statistic{
+			background:skyblue;
+}
+footer {
+        height: 100px;
+        background: #eee;
+		font-size: 25px;
+		text-align:center;
+		font-family: 'Indie Flower', cursive;		
+}
+
+#ts{ 
+	background:green;
+}	
+
+
+.intro{
+		font-size: 40px;
+		font-family: 'Source Sans Pro', sans-serif;
+		text-align: center;
+		 
+}
+
+.area{ 
+		font-size:40px;
+		font-family: 'Source Sans Pro', sans-serif;
+}	
+
+.ex{	
+		height: 100px;
+        background: #AFDDFA;
+		font-size: 20px;
+		font-family: 'Source Sans Pro', sans-serif;
+}		
+
+.add{
+		font-size: 25px;
+		font-family: 'Source Sans Pro', sans-serif;
+}		
+		
+#ex8{	
+		height: 30px;
+        background: #AFDDFA;
+		font-size: 20px;
+		font-family: 'Source Sans Pro', sans-serif;
+}		
+
+#ex7{	
+		height: 50px;
+        background: #AFDDFA;
+		font-size: 20px;
+		font-family: 'Source Sans Pro', sans-serif;
+}	
+
+#ex6{	
+		height: 50px;
+        background: #AFDDFA;
+		font-size: 20px;
+		font-family: 'Source Sans Pro', sans-serif;
+}
+
+#ex5{	
+		height: 30px;
+        background: #AFDDFA;
+		font-size: 20px;
+		font-family: 'Source Sans Pro', sans-serif;
+}
+
+#ex4{	
+		height: 75px;
+        background: #AFDDFA;
+		font-size: 20px;
+		font-family: 'Source Sans Pro', sans-serif;
+}
+
+#ex3{	
+		height: 50px;
+        background: #AFDDFA;
+		font-size: 20px;
+		font-family: 'Source Sans Pro', sans-serif;
+}
+
+#sh{
+	color: blue;
+	font-family: 'Source Sans Pro', sans-serif;
+}	
+	
