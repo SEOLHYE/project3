@@ -87,6 +87,9 @@ function initMap() {
   marker.addListener('click', function() {
     infowindow.open(map, marker);
   });
+	
+ var trafficLayer = new google.maps.TrafficLayer();
+        trafficLayer.setMap(map);	
 }
       
     </script>
